@@ -11,7 +11,7 @@ cffi==1.10.0
 chardet==3.0.2
 cookies==2.2.1
 coverage==4.5.1
-cryptography==1.9
+cryptography==3.2
 cycler==0.10.0
 Django==1.11
 django-appconf==1.0.2
