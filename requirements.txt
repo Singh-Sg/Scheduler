@@ -13,7 +13,7 @@ cookies==2.2.1
 coverage==4.5.1
 cryptography==1.9
 cycler==0.10.0
-Django==1.11
+Django==2.2.24
 django-appconf==1.0.2
 django-common-helpers==0.8.0
 django-compressor==2.1
