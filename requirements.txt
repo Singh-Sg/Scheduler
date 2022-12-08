@@ -6,7 +6,7 @@ bcrypt==3.1.4
 beautifulsoup4==4.4.1
 boto3==1.4.4
 botocore==1.5.28
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.10.0
 chardet==3.0.2
 cookies==2.2.1
